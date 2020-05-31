@@ -1,0 +1,2 @@
+After a lot of tweeking, finally the transmitter control configuration has been made with respect to the flight controller settings and the drone dynamics. 
+The file "FS-CT6B Quad Config backup" is a backup image of the configuration.  
